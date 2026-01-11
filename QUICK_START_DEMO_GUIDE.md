@@ -5,7 +5,7 @@
 
 ## WHAT YOU HAVE
 
-A complete, production-ready grant writing automation system based on Meredith Noble's proven methodology. This is not a concept—it's a working system ready to transform One Small Step's operations.
+A complete, production-ready grant writing automation system based on the Global Grant Writing Collective's proven methodology. This is not a concept—it's a working system ready to transform One Small Step's operations.
 
 ---
 
